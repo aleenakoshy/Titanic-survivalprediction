@@ -1,5 +1,3 @@
-# Titanic-survivalprediction
-A Machine Learning project predicting survival of Titanic passengers using Logistic Regression.
 # Titanic Survival Prediction
 
 This is one of my first machine learning projects where I tried to predict whether a passenger survived the Titanic disaster or not.  
